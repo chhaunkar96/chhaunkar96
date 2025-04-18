@@ -28,5 +28,8 @@ I'm a **Software Engineer** in full-stack development, cloud solutions, and scal
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhaunkar96@gmail.com)
 
 ---
+My Blog: [Text2Tech - Gadgets, Git & Gains](https://text2tech.com)
+
+---
 
 ![Visitor Count](https://profile-counter.glitch.me/{chhaunkar96}/count.svg) 
