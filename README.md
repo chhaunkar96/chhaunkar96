@@ -11,6 +11,9 @@ I'm a **Software Engineer** in full-stack development, cloud solutions, and scal
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
+![Yii2](https://img.shields.io/badge/YII2-1e6887?style=for-the-badge&logo=yii2&logoColor=white)
+
 
 ### 📊 GitHub Stats
 
