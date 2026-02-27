@@ -32,14 +32,18 @@ My Blog: [Text2Tech - Gadgets, Git & Gains](https://text2tech.com)
 
 ---
 
----
-
-## Tools developed by me: 
-### [CodeToPDF](https://www.codetopdf.com/)
+### Tools developed by me: 
+#### [CodeToPDF](https://www.codetopdf.com/)
 CodetoPdf is the professional standard for documenting code. Instantly convert source files into elegantly formatted PDFs with enterprise-grade syntax highlighting, smart pagination, and support for over 100+ programming languages.
 
-### [Docoline](https://www.docoline.com/)
-Docoline is a premier online document conversion platform. We transform difficult formats like DOCX, ODT, PPT, and Excel into universally compatible PDFs and others.
+#### [Docoline](https://www.docoline.com/)
+Docoline is a premier online document conversion platform. We transform difficult formats like DOCX, ODT, PPT, and Excel into universally compatible PDFs and others
+
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{chhaunkar96}/count.svg) 
+More details about my services:
+[Visit ZenitByte](https://zenitbyte.com/)
+
+---
+
+![](https://komarev.com/ghpvc/?username=chhaunkar96&abbreviated=true)
